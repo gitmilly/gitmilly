@@ -1,4 +1,4 @@
-## Hola
+## Hola, my name is Emilly ^^
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
